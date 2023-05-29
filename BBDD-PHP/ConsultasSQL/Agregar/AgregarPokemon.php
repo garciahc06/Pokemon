@@ -6,7 +6,7 @@ require_once '../../Conn/Connection.php';
 echo "<link rel='stylesheet' type='text/css' href='Agregar.css'>";
 
 echo "<body>";
-echo "<form action='AddPost.php' method='post'>";
+echo "<form action='../../Posts/AddPost.php' method='post'>";
 echo "<div id='panelAgregar'>";
 echo "<div id='header'><p id='parrafito'>Agregar Pokemon</p></div>";
 echo "<table id='tablaAgregar'>";

@@ -16,7 +16,7 @@ if (!$deleteQueryResult) {
 }
 else {
     echo "<script>alert('Pokemon eliminado correctamente')</script>";
-    echo "<script>window.location.href='../../PagWeb/WebPage.php'</script>";
+    echo "<script>window.location.href='../PagWeb/WebPage.php'</script>";
     exit();
 }
 

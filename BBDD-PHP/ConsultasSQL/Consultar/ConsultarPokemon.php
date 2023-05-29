@@ -6,7 +6,7 @@ require_once '../../Conn/Connection.php';
 <?php
 echo "<link rel='stylesheet' type='text/css' href='Consultar.css'>";
 echo "<body>";
-echo "<form action='ConsultarPost.php' method='post'>";
+echo "<form action='../../Posts/ConsultarPost.php' method='post'>";
 echo "<div id='panelConsultar'>";
 echo "<div id='header'><p id='parrafito'>Consultar Pokemon</p></div>";
 echo "<table id='tablaConsultar'>";
